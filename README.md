@@ -49,8 +49,6 @@ expo start
 
 No diretório do projeto, você pode executar os seguintes scripts:
 
-- `npm start` ou `expo start`: Inicia o ambiente de desenvolvimento.
-- `npm run android` ou `expo run:android`: Inicia o aplicativo no emulador Android.
-- `npm run ios` ou `expo run:ios`: Inicia o aplicativo no emulador iOS.
-- `npm run web` ou `expo start --web`: Inicia o aplicativo no navegador.
+- `npx expo start`: Inicia o ambiente de desenvolvimento.
+
 
